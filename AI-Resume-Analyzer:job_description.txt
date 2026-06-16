@@ -1,0 +1,10 @@
+AI Engineer
+
+Required Skills:
+Python
+SQL
+Machine Learning
+Deep Learning
+Azure
+Git
+Streamlit
